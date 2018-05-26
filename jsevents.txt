@@ -1,0 +1,305 @@
+
+nothing
+Axis 0 at (  -738,   2468)
+Axis 0 at (  -738,   2361)
+Axis 0 at (   412,   2361)
+Axis 0 at (   412,   2468)
+Axis 0 at (  1170,   2468)
+Axis 0 at (  1170,   1938)
+Axis 0 at (  5068,   1938)
+Axis 0 at (  5068,   1619)
+Axis 0 at (  7342,   1619)
+Axis 0 at (  7342,   1195)
+Axis 0 at ( 10374,   1195)
+Axis 0 at ( 10374,    877)
+Axis 0 at ( 16112,    877)
+Axis 0 at ( 19252,    877)
+Axis 0 at ( 19252,    772)
+Axis 0 at ( 24125,    772)
+Axis 0 at ( 28239,    772)
+Axis 0 at ( 28239,    877)
+Axis 0 at ( 32767,    877)
+Axis 0 at ( 29106,    877)
+Axis 0 at ( 29106,    559)
+Axis 0 at ( 32030,    559)
+Axis 0 at ( 32030,    347)
+Axis 0 at ( 32767,    347)
+Axis 0 at ( 32767,    453)
+Axis 0 at ( 32245,    453)
+Axis 0 at ( 32245,    347)
+Axis 0 at ( 32767,    347)
+Axis 0 at ( 32767,    453)
+Axis 0 at ( 32767,    347)
+Axis 0 at ( 32767,    453)
+Axis 0 at ( 29106,    453)
+Axis 0 at ( 32767,    453)
+Axis 0 at ( 27481,    453)
+Axis 0 at ( 19902,    453)
+Axis 0 at ( 10915,    453)
+Axis 0 at (   953,    453)
+Axis 0 at (   953,    665)
+Axis 0 at (  1277,    665)
+Axis 0 at (  1277,    559)
+
+Axis 0 at (   953,    559)
+Axis 0 at (   953,    665)
+Button A pressed
+Axis 0 at (  1062,    665)
+Axis 0 at (  1062,    559)
+Axis 0 at (  1062,    665)
+Button A released
+Axis 0 at (   953,    665)
+Axis 0 at (   953,    559)
+Axis 0 at (  1062,    559)
+Axis 0 at (  1062,    665)
+Button A pressed
+Axis 0 at (  1170,    665)
+Axis 0 at (  1062,    665)
+Button A released
+Axis 0 at (  1170,    665)
+
+Button B pressed
+Button B released
+Axis 0 at (  1062,    665)
+
+Axis 0 at (  1386,    665)
+
+Axis 0 at (  1062,    665)
+Button X pressed
+Axis 0 at (  1170,    665)
+Button X released
+Axis 0 at (  1170,    559)
+Axis 0 at (  1170,    772)
+
+Button Y pressed
+Axis 0 at (  1170,    665)
+Axis 0 at (  1062,    665)
+Axis 0 at (  1062,    559)
+Button Y released
+Axis 0 at (  1170,    559)
+Axis 0 at (  1170,    665)
+Axis 0 at (  1170,    559)
+
+Button A pressed
+Axis 0 at (  1170,    665)
+Button B pressed
+
+Button B released
+Button A released
+Axis 0 at (  1170,    559)
+
+nothing
+nothing
+nothing
+Button A pressed
+Button B pressed
+Axis 0 at (  1170,    665)
+Button A released
+Axis 0 at (  1062,    665)
+Axis 0 at (  1062,    559)
+Button B released
+Axis 0 at (  1277,    559)
+Axis 0 at (  1170,    559)
+
+Button Y pressed
+Axis 0 at (  1170,    665)
+
+Button Y released
+Axis 0 at (  1062,    665)
+Axis 0 at (  1062,    559)
+Axis 0 at (  1170,    559)
+Axis 0 at (  1170,    665)
+
+nothing
+nothing
+nothing
+nothing
+nothing
+
+nothing
+nothing
+nothing
+nothing
+nothing
+Button A pressed
+Axis 0 at ( -1496,      0)
+Button A released
+Axis 0 at ( -1387,      0)
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+Axis 0 at ( -1496,   1407)
+Button A pressed
+Axis 0 at ( -1387,   1407)
+Axis 0 at ( -1387,   1301)
+
+Button A released
+Axis 0 at ( -1496,   1301)
+Button B pressed
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+Button B released
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1387,   1938)
+Axis 0 at ( -1496,   1938)
+Axis 0 at ( -1496,   2255)
+Axis 0 at ( -1604,   2255)
+Axis 0 at ( -1604,   2574)
+
+Axis 0 at ( -1279,   2574)
+Axis 0 at ( -1279,   2468)
+Axis 0 at ( -1604,   2468)
+
+
+nothing
+nothing
+nothing
+nothing
+nothing
+
+nothing
+nothing
+nothing
+nothing
+nothing
+Button A pressed
+Axis 0 at ( -1496,      0)
+Button A released
+Axis 0 at ( -1387,      0)
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+Axis 0 at ( -1496,   1407)
+Button A pressed
+Axis 0 at ( -1387,   1407)
+Axis 0 at ( -1387,   1301)
+
+Button A released
+Axis 0 at ( -1496,   1301)
+Button B pressed
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+Button B released
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1387,   1938)
+Axis 0 at ( -1496,   1938)
+Axis 0 at ( -1496,   2255)
+Axis 0 at ( -1604,   2255)
+Axis 0 at ( -1604,   2574)
+
+Axis 0 at ( -1279,   2574)
+Axis 0 at ( -1279,   2468)
+Axis 0 at ( -1604,   2468)
+
+
+nothing
+nothing
+nothing
+nothing
+nothing
+
+nothing
+nothing
+nothing
+nothing
+nothing
+Button A pressed
+Axis 0 at ( -1496,      0)
+Button A released
+Axis 0 at ( -1387,      0)
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+Axis 0 at ( -1496,   1407)
+Button A pressed
+Axis 0 at ( -1387,   1407)
+Axis 0 at ( -1387,   1301)
+
+Button A released
+Axis 0 at ( -1496,   1301)
+Button B pressed
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+Button B released
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1387,   1938)
+Axis 0 at ( -1496,   1938)
+Axis 0 at ( -1496,   2255)
+Axis 0 at ( -1604,   2255)
+Axis 0 at ( -1604,   2574)
+
+Axis 0 at ( -1279,   2574)
+Axis 0 at ( -1279,   2468)
+Axis 0 at ( -1604,   2468)
+
+
+nothing
+nothing
+nothing
+nothing
+nothing
+
+nothing
+nothing
+nothing
+nothing
+nothing
+Button A pressed
+Axis 0 at ( -1496,      0)
+Button A released
+Axis 0 at ( -1387,      0)
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+Axis 0 at ( -1496,   1407)
+Button A pressed
+Axis 0 at ( -1387,   1407)
+Axis 0 at ( -1387,   1301)
+
+Button A released
+Axis 0 at ( -1496,   1301)
+Button B pressed
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+Button B released
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1496,   1301)
+
+Axis 0 at ( -1387,   1301)
+Axis 0 at ( -1387,   1938)
+Axis 0 at ( -1496,   1938)
+Axis 0 at ( -1496,   2255)
+Axis 0 at ( -1604,   2255)
+Axis 0 at ( -1604,   2574)
+
+Axis 0 at ( -1279,   2574)
+Axis 0 at ( -1279,   2468)
+Axis 0 at ( -1604,   2468)
+
+
+nothing
+nothing
+nothing
+Button A pressed
+Button B pressed
+Axis 0 at (  1170,    665)
+Button A released
+Axis 0 at (  1062,    665)
+Axis 0 at (  1062,    559)
+Button B released
+Axis 0 at (  1277,    559)
+Axis 0 at (  1170,    559)
+
+Button Y pressed
+Axis 0 at (  1170,    665)
+
+Button Y released
+Axis 0 at (  1062,    665)
+Axis 0 at (  1062,    559)
+Axis 0 at (  1170,    559)
+Axis 0 at (  1170,    665)
