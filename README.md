@@ -342,8 +342,8 @@ Al usar multiprocesamiento y proteger el diccionario con un mutex se logran dos 
 
   
 - - -
-######*Contact*
-[![twitter][1.1]][1]     [![github][2.2]][2]     [![linkedin][3.3]][3]
+
+[![twitter][1.1]][1]     [![github][2.2]][2]     [![linkedin][3.3]][3] *Contact*
 
 [1]:https://twitter.com/b_munizcastro
 [1.1]:https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/twitter-24.png
